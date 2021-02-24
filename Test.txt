@@ -1,4 +1,0 @@
-hello 
-lest 
-check and test it
-ok
